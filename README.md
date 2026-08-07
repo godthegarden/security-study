@@ -1,2 +1,2 @@
 # security-study
-Cybersecurity study and personal projects
+This repository contains my cybersecurity study materials and practice projects.
